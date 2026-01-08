@@ -25,3 +25,7 @@ venv/
 
 # Node (if frontend exists)
 node_modules/
+
+flask_project.code-workspace
+
+data.sqlite
